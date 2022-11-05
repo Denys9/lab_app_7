@@ -7,3 +7,4 @@ def str():
         print(f'Eror information: {ex}')
 
 str()
+
